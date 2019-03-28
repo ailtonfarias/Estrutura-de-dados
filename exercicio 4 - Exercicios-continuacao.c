@@ -1,4 +1,4 @@
-/*Exercicio 4 */
+/*Exercicio 4 parte II */
 
 #include <stdio.h>
 #define tam 5
