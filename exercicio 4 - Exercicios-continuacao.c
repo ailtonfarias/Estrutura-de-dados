@@ -1,3 +1,5 @@
+/*Exercicio 4 */
+
 #include <stdio.h>
 #define tam 5
 
