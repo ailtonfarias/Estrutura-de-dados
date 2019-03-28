@@ -1,4 +1,4 @@
-/*fazer um algoritimo para trasformar segundos em horas, minutos e segundos*/
+/*exercicio 3*/
 #include <stdio.h>
 #include <stdlib.h>
 
